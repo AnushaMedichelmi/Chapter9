@@ -1,0 +1,8 @@
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\bin\Debug\Chapter9Cards.exe.config
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\bin\Debug\Chapter9Cards.exe
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\bin\Debug\Chapter9Cards.pdb
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\obj\Debug\Chapter9Cards.csproj.AssemblyReference.cache
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\obj\Debug\Chapter9Cards.csproj.SuggestedBindingRedirects.cache
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\obj\Debug\Chapter9Cards.csproj.CoreCompileInputs.cache
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\obj\Debug\Chapter9Cards.exe
+C:\Users\Anusha.Medichelmi\source\repos\Chapter9Cards\Chapter9Cards\obj\Debug\Chapter9Cards.pdb
